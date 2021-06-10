@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=NetR3_2 Pin=S1-1
+Removed Pin From Net: NetName=NetR3_2 Pin=S1-2
+Removed Pin From Net: NetName=+5 Pin=S1-3
+Removed Pin From Net: NetName=+5 Pin=S1-4
+Removed Pin From Net: NetName=GND Pin=S2-1
+Removed Pin From Net: NetName=GND Pin=S2-2
+Removed Pin From Net: NetName=NetR2_1 Pin=S2-3
+Removed Pin From Net: NetName=NetR2_1 Pin=S2-4
+Added Component: Designator=SW1(TE_3-1825910-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3-1825910-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3-1825910-1/TE%20Connectivity%20ALCOSWITCH%20Switches/view-part/452461/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-3-1825910-1.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW2(TE_3-1825910-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3-1825910-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3-1825910-1/TE%20Connectivity%20ALCOSWITCH%20Switches/view-part/452461/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-3-1825910-1.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=SW1-1
+Added Pin To Net: NetName=NetR3_2 Pin=SW1-3
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=NetR2_1 Pin=SW2-3
+Added Member To Class: ClassName=Schematic Member=Component SW1 3-1825910-1
+Added Member To Class: ClassName=Schematic Member=Component SW2 3-1825910-1
+Added Room: Name=Schematic

@@ -1,0 +1,161 @@
+Added Component: Designator=C1(CP1/2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Description 1"; Value = "10 => 220uF/6,3V/10V - 10uF => 100uF/16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = "0,1uF => 33uF/50V - 10uF => 22uF/63V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 3"; Value = "0,47uF => 10uF/100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CP1/2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Description 1"; Value = "10 => 220uF/6,3V/10V - 10uF => 100uF/16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = "0,1uF => 33uF/50V - 10uF => 22uF/63V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 3"; Value = "0,47uF => 10uF/100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=DS(LED7SEG-1-0.36T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.avagotech.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://cp.literature.agilent.com/litweb/pdf/5988-4434EN.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "11-Feb-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "11-Oct-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Display outline superimposed on PCB Footprint."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Pins 1 and 6 are redundant Anodes."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED, 7-Segment Display, 7.62 mm, RHD; 10 Leads; Row Space 5.08 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "11-Feb-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "26-May-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=JDC(DC0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Component: Designator=R1(SM-RES-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(SM-RES-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(SM-RES-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(SM-RES-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=S1(SW_5-1437565-0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FSM6JSMATR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FSM6JSMATR/TE%20Connectivity%20ALCOSWITCH%20Switches/view-part/518064/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-5-1437565-0.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S2(SW_5-1437565-0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FSM6JSMATR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FSM6JSMATR/TE%20Connectivity%20ALCOSWITCH%20Switches/view-part/518064/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-5-1437565-0.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1(DIP254P762X508-16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CD4026BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PDIP-16 Harris"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CD4026BE/Texas%20Instruments/view-part/779031/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(DIP8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Count"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "500kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NE555DT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "0°C ~ 70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "8-SOIC (3.9mm Width)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "497-1962-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "497-1962-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "555 Type, Timer/Oscillator (Single)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "4.5 V ~ 16 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=JDC-1
+Added Pin To Net: NetName=NetC1_1 Pin=R1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R1-2
+Added Pin To Net: NetName=NetC1_1 Pin=R2-2
+Added Pin To Net: NetName=NetC1_1 Pin=S1-3
+Added Pin To Net: NetName=NetC1_1 Pin=S1-4
+Added Pin To Net: NetName=NetC1_1 Pin=U1-3
+Added Pin To Net: NetName=NetC1_1 Pin=U2-4
+Added Pin To Net: NetName=NetC1_1 Pin=U2-6
+Added Pin To Net: NetName=NetC1_1 Pin=U2-7
+Added Pin To Net: NetName=NetC1_1 Pin=U2-8
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C2-2
+Added Pin To Net: NetName=NetC1_2 Pin=JDC-2
+Added Pin To Net: NetName=NetC1_2 Pin=R3-1
+Added Pin To Net: NetName=NetC1_2 Pin=R4-2
+Added Pin To Net: NetName=NetC1_2 Pin=S2-1
+Added Pin To Net: NetName=NetC1_2 Pin=S2-2
+Added Pin To Net: NetName=NetC1_2 Pin=U1-2
+Added Pin To Net: NetName=NetC1_2 Pin=U2-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R4-1
+Added Pin To Net: NetName=NetC2_1 Pin=U1-1
+Added Pin To Net: NetName=NetC2_1 Pin=U2-3
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetDS_2 Pin=DS-2
+Added Pin To Net: NetName=NetDS_2 Pin=U1-6
+Added Net: Name=NetDS_2
+Added Pin To Net: NetName=NetDS_3 Pin=DS-3
+Added Pin To Net: NetName=NetDS_3 Pin=U1-7
+Added Net: Name=NetDS_3
+Added Pin To Net: NetName=NetDS_4 Pin=DS-4
+Added Pin To Net: NetName=NetDS_4 Pin=U1-11
+Added Net: Name=NetDS_4
+Added Pin To Net: NetName=NetDS_5 Pin=DS-5
+Added Pin To Net: NetName=NetDS_5 Pin=U1-9
+Added Net: Name=NetDS_5
+Added Pin To Net: NetName=NetDS_8 Pin=DS-8
+Added Pin To Net: NetName=NetDS_8 Pin=U1-13
+Added Net: Name=NetDS_8
+Added Pin To Net: NetName=NetDS_9 Pin=DS-9
+Added Pin To Net: NetName=NetDS_9 Pin=U1-12
+Added Net: Name=NetDS_9
+Added Pin To Net: NetName=NetDS_10 Pin=DS-10
+Added Pin To Net: NetName=NetDS_10 Pin=U1-10
+Added Net: Name=NetDS_10
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=S2-3
+Added Pin To Net: NetName=NetR2_1 Pin=S2-4
+Added Pin To Net: NetName=NetR2_1 Pin=U2-2
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=S1-1
+Added Pin To Net: NetName=NetR3_2 Pin=S1-2
+Added Pin To Net: NetName=NetR3_2 Pin=U1-15
+Added Net: Name=NetR3_2
+Added Member To Class: ClassName=Schematic Member=Component C1 1uF
+Added Member To Class: ClassName=Schematic Member=Component C2 22uF
+Added Member To Class: ClassName=Schematic Member=Component DS LED7SEG-1-0.36T
+Added Member To Class: ClassName=Schematic Member=Component JDC Jac DC
+Added Member To Class: ClassName=Schematic Member=Component R1 10K
+Added Member To Class: ClassName=Schematic Member=Component R2 10K 
+Added Member To Class: ClassName=Schematic Member=Component R3 10K
+Added Member To Class: ClassName=Schematic Member=Component R4 100K
+Added Member To Class: ClassName=Schematic Member=Component S1 5-1437565-0
+Added Member To Class: ClassName=Schematic Member=Component S2 5-1437565-0
+Added Member To Class: ClassName=Schematic Member=Component U1 CD4026BE
+Added Member To Class: ClassName=Schematic Member=Component U2 NE555
+Added Room: Name=Schematic

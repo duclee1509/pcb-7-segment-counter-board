@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=GND Pin=DS-7
+Removed Pin From Net: NetName=NetDS_2 Pin=U1-6
+Removed Pin From Net: NetName=NetDS_10 Pin=U1-10
+Removed Pin From Net: NetName=NetDS_4 Pin=U1-11
+Removed Pin From Net: NetName=NetDS_9 Pin=U1-12
+Change Component Footprint: Designator=DS Old Footprint=LED7SEG-1-0.36T New Footprint=LED7SEG-1-0.56
+Change Component Comment : Designator=DS Old Comment=LED7SEG-1-0.36T New Comment=7SEG
+Change component parameters: Designator = "DS"; Footprint = "LED7SEG-1-0.56"; UniqueID = "\PXWPEQFT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Colour"; Value = "Blue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.agilent.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetDocument"; Value = "24-Sep-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Dec-2003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Schematic revised, PCB Footprint replaced."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MinimumIntensity"; Value = "2020 ucd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "IF = 10 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDocument"; Value = "24-Sep-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "H"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=DS-3
+Added Pin To Net: NetName=GND Pin=DS-8
+Added Pin To Net: NetName=NetDS_9 Pin=U1-6
+Added Pin To Net: NetName=NetDS_10 Pin=U1-7
+Added Pin To Net: NetName=NetDS_2 Pin=U1-9
+Added Pin To Net: NetName=NetDS_4 Pin=U1-13
+Added Pin To Net: NetName=NetDS_1 Pin=DS-1
+Added Pin To Net: NetName=NetDS_1 Pin=U1-11
+Added Net: Name=NetDS_1
+Added Pin To Net: NetName=NetDS_6 Pin=DS-6
+Added Pin To Net: NetName=NetDS_6 Pin=U1-12
+Added Net: Name=NetDS_6
+Added Pin To Net: NetName=NetDS_7 Pin=DS-7
+Added Pin To Net: NetName=NetDS_7 Pin=U1-10
+Added Net: Name=NetDS_7
+Added Room: Name=Schematic
