@@ -1,5 +1,5 @@
 # Board Design for 7 Segment Counter
 
-![](/assests/pcb.gif)
+![](/assets/pcb.gif)
 
-![](/assests/schematic.png)
+![](/assets/schematic.png)
